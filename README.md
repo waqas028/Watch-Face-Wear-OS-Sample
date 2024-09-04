@@ -1,5 +1,13 @@
 # Watch Face Wear OS Sample
 This repository contains an Android and Wear OS app that allows users to send data or images from a mobile device to a smartwatch and set that image as the current watch face.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/845b2848-5dc3-45dd-b742-af9b0dfd983f
+
+
+
 ## Features
 
 - **Send Data from Mobile to Watch**: Easily transfer data, including images, from your Android smartphone to your Wear OS watch.
