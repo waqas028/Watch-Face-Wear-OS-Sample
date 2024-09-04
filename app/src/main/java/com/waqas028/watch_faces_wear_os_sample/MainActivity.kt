@@ -22,6 +22,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.material3.Button
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
@@ -329,11 +330,12 @@ fun HomeScreen(
             ){
                 Text(text = "Take Picture")
             }
+            Spacer(modifier = Modifier.width(10.dp))
             Button(
                 enabled = nodeName.isNotEmpty() && image != null,
                 onClick = onSendPhotoClick
             ){
-                Text(text = "Send Pic to Wear OS")
+                Text(text = "Send Pic to Wear OS or CurrentWatch Face")
             }
         }
         Spacer(modifier = Modifier.height(10.dp))
@@ -341,7 +343,7 @@ fun HomeScreen(
             enabled = nodeName.isNotEmpty() && image != null,
             onClick = onStartWearableActivityClick
         ){
-            Text(text = "Set Image as a Current Watch Faces")
+            Text(text = "Start Wearable Activity")
         }
     }
 }
