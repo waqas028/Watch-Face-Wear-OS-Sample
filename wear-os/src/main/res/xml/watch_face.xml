@@ -1,0 +1,8 @@
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/watch_face_description"
+    android:label="@string/watch_face_label"
+    android:thumbnail="@drawable/ic_image"
+    android:previewImage="@drawable/ic_image"
+    android:author="@string/watch_face_author"
+    android:version="@string/watch_face_version">
+</wallpaper>

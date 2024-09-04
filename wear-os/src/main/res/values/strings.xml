@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">wear-os</string>
+    <string name="pick_your_watch_face">Pick Current Watch Faces</string>
+    <string name="waiting">Waiting for data to arrive\u2026</string>
+    <string name="query_other_devices">Query for connected devices</string>
+    <string name="query_mobile_camera">Query for mobile camera</string>
+    <string name="no_device">No device provides the requested capabilities</string>
+    <string name="connected_nodes">Nodes: %1$s</string>
+    <string name="nodes">Nodes</string>
+    <string name="message">Message</string>
+    <string name="capability_changed">Capability changed</string>
+    <string name="photo_placeholder">Photo placeholder</string>
+    <string name="captured_photo">Captured photo</string>
+    <string name="data_item_changed">DataItem changed</string>
+    <string name="data_item_deleted">DataItem deleted</string>
+    <string name="data_item_unknown">Unknown DataItem type</string>
+    <string name="watch_face_description">watch_face_description</string>
+    <string name="watch_face_author">watch_face_author</string>
+    <string name="watch_face_version">watch_face_version</string>
+    <string name="watch_face_label">watch_face_label</string>
+    <string name="watchface_hand_length_setting">Minute Hand length</string>
+    <string name="watchface_pips_setting_description">Whether to draw or not</string>
+    <string name="watchface_pips_setting">Hour Pips</string>
+    <string name="watchface_hand_length_setting_description">Scale of watch hand</string>
+    <string name="colors_style_setting_description">Watchface colorization</string>
+    <string name="colors_style_setting">Colors</string>
+    <string name="ambient_style_name">Ambient Style</string>
+    <string name="red_style_name">Red Style</string>
+    <string name="green_style_name">Green Style</string>
+    <string name="blue_style_name">Blue Style</string>
+    <string name="white_style_name">White Style</string>
+</resources>

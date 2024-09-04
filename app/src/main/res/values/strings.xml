@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Watch-Faces-Wear-OS-Sample</string>
+    <string name="wearable_api_unavailable">The Wearable API is not available on this device</string>
+</resources>
